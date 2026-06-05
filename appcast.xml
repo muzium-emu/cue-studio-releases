@@ -3,14 +3,14 @@
     <channel>
         <title>CUE Controller</title>
         <item>
-            <title>4.0.0</title>
-            <pubDate>Fri, 15 May 2026 16:15:54 +0900</pubDate>
-            <sparkle:version>4.0.0</sparkle:version>
-            <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
+            <title>4.0.2</title>
+            <pubDate>Fri, 05 Jun 2026 18:47:05 +0900</pubDate>
+            <sparkle:version>4.0.2</sparkle:version>
+            <sparkle:shortVersionString>4.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://github.com/muzium-emu/cue-controller-releases/releases/tag/v4.0.0</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/muzium-emu/cue-controller-releases/releases/download/v4.0.0/CUE_Controller_v4.0.0.dmg" length="66935348" type="application/octet-stream" sparkle:edSignature="7SboKgqtfGWrM6HVKWHn3l/owptAj/VL3wl8v1Lw5OKa6UcTcQbi957e/odeIuX3V5rOPejwGiHD3m5D/r1lBw=="/>
+            <sparkle:releaseNotesLink>https://github.com/muzium-emu/cue-controller-releases/releases/tag/v4.0.2</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/muzium-emu/cue-controller-releases/releases/download/v4.0.2/CUE_Controller_v4.0.2.dmg" length="63005813" type="application/octet-stream" sparkle:edSignature="mwTjOvKKlX+pNQK/HlFKIj7rUDS5sD10uf0irlPP+u7b8OdsWCMZylVPfyXevIToukEhXHRsV/ROWGy7RCG6DA=="/>
         </item>
     </channel>
 </rss>
