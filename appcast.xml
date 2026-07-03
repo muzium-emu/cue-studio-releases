@@ -2,5 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>CUE Studio</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 03 Jul 2026 19:17:48 +0900</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://github.com/muzium-emu/cue-studio-releases/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/muzium-emu/cue-studio-releases/releases/download/v1.0.0/CUE_Studio_v1.0.0.dmg" length="65558968" type="application/octet-stream" sparkle:edSignature="asbqoKTE9DME7uXy+OocwEtzV4m27WoIUEiVoNL4Y1OawKy4Fa9x/PNBHxW7n3/bqID1iPF1EgtIkyodR7u0AQ=="/>
+        </item>
     </channel>
 </rss>
